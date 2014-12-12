@@ -5,15 +5,15 @@
 
 library(igraph)
 setwd("/Users/kimtsao/Desktop/Summer08/Mammal Data")
-#setwd("Users/Public/Github/ospC-communities")
-n08 <- read.delim("Nymphs08_ospC.txt", header=T, strip.white=T)
+#setwd("/Users/Public/Github/ospC-communities")
+#n08 <- read.delim("Nymphs08_ospC.txt", header=T, strip.white=T)
 ticks <- read.delim("PeleTicksOspC.txt",header=T, colClasses="character") #colClasses avoids importing data as levels/factors
 tissues <- read.csv("PeleTissueOspC.txt",header=T, colClasses="character")
-dates <- read.delim("cap-site-sess-date-tag.txt",header=T, colClasses="character")
+#dates <- read.delim("cap-site-sess-date-tag.txt",header=T, colClasses="character")
 
-temp = unique(sort(c(ticks$OspCType, tissues$OspCType)))
-alltypes = temp[temp!=""]
-taglist = unique(sort(c(ticks$TagNumber, tissues$TagNumber)))
+# temp = unique(sort(c(ticks$OspCType, tissues$OspCType)))
+# alltypes = temp[temp!=""]
+# taglist = unique(sort(c(ticks$TagNumber, tissues$TagNumber)))
 
 # tallies co-occurrences of types within inputted dataset (separated by timepoint)
 makeAdjMatrix <- function(subdata,t){

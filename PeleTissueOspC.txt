@@ -1,0 +1,96 @@
+"SiteName","TagNumber","SessionNumber","ID","OspCType"
+"Bent of the River","6029",2,154,
+"Bent of the River","6029",4,465,
+"Bent of the River","6055",2,159,
+"Bent of the River","6055",4,460,
+"Bent of the River","6057",2,152,
+"Bent of the River","6057",4,478,
+"Bent of the River","6057",5,610,
+"Bent of the River","6060",2,157,"A"
+"Bent of the River","6060",6,727,"A"
+"Bent of the River","6110",2,162,"A"
+"Bent of the River","6110",4,464,"A"
+"Bent of the River","6110",5,606,"A"
+"Bent of the River","6110",5,606,"K"
+"Bent of the River","6110",6,731,"K"
+"Bent of the River","6110",6,731,"B"
+"Bent of the River","6242",3,308,"G"
+"Bent of the River","6242",3,308,"B"
+"Bent of the River","6242",3,308,"A"
+"Bent of the River","6242",4,477,"K"
+"Bent of the River","6242",4,477,"A"
+"Bent of the River","6242",5,612,"H"
+"Bent of the River","6242",5,612,"A"
+"Bent of the River","6242",5,612,"K"
+"Bent of the River","6242",6,723,"A"
+"Bent of the River","6242",6,723,"H"
+"Bent of the River","6242",6,723,"K"
+"Great Mountain Forest","6001",1,124,
+"Great Mountain Forest","6001",4,564,
+"Great Mountain Forest","6073",1,114,
+"Great Mountain Forest","6073",4,551,"K"
+"Great Mountain Forest","6073",4,551,"A"
+"Great Mountain Forest","6134",2,211,
+"Great Mountain Forest","6134",4,575,
+"Great Mountain Forest","6134",6,847,
+"Great Mountain Forest","6191",2,224,
+"Great Mountain Forest","6191",4,553,
+"Great Mountain Forest","6191",5,661,
+"Great Mountain Forest","6192",2,226,
+"Great Mountain Forest","6192",4,550,
+"Great Mountain Forest","6192",5,669,
+"Great Mountain Forest","6289",3,344,
+"Great Mountain Forest","6289",4,560,
+"Great Mountain Forest","6289",5,679,
+"Great Mountain Forest","6289",6,832,
+"Marvelwood","6012",2,135,"A"
+"Marvelwood","6012",5,584,
+"Marvelwood","6095",3,277,
+"Marvelwood","6095",4,454,
+"Marvelwood","6095",5,594,
+"Marvelwood","6099",2,127,
+"Marvelwood","6099",4,445,
+"Marvelwood","6099",5,595,
+"Marvelwood","6099",6,717,
+"Marvelwood","6166",3,294,
+"Marvelwood","6166",4,436,
+"Marvelwood","6166",5,591,
+"Marvelwood","6166",6,714,
+"Marvelwood","6236",4,450,
+"Marvelwood","6236",5,585,
+"Marvelwood","6236",6,703,
+"Miles","6049",1,92,
+"Miles","6148",1,99,
+"Miles","6148",4,534,"K"
+"Miles","6148",5,633,"K"
+"Miles","6151",1,94,"O"
+"Miles","6151",1,94,"F"
+"Miles","6151",5,636,"H"
+"Miles","6151",5,636,"A"
+"Sharon","6063",1,80,"K"
+"Sharon","6063",2,164,"B"
+"Sharon","6063",2,164,"A"
+"Sharon","6063",4,513,"B"
+"Sharon","6063",5,623,"B"
+"Sharon","6066",1,83,
+"Sharon","6066",4,503,"H"
+"Sharon","6066",4,503,"G"
+"Sharon","6066",4,503,"A"
+"Sharon","6066",5,621,"G"
+"Sharon","6066",5,621,"A"
+"Sharon","6066",6,771,
+"Sharon","6067",1,84,
+"Sharon","6067",4,514,
+"Sharon","6067",5,620,
+"Sharon","6136",2,166,"K"
+"Sharon","6136",2,166,"A"
+"Sharon","6136",4,511,"K"
+"Sharon","6136",4,511,"A"
+"Sharon","6136",5,622,"K"
+"Sharon","6136",5,622,"A"
+"Sharon","6149",1,85,
+"Sharon","6149",4,506,"A"
+"Sharon","6149",5,624,"A"
+"Sharon","6186",2,181,
+"Sharon","6186",4,505,"G"
+"Sharon","6186",6,768,
